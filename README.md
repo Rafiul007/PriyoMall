@@ -3,6 +3,8 @@
 
 React JS e-commerce website
 
+#Status
+Not finished
 
 ## Screenshots
 
