@@ -1,7 +1,7 @@
 
 # PriyoMall
 
-React JS e-commerce website
+React JS e-commerce website. E-commerce learning project.
 
 #Status
 Not finished
